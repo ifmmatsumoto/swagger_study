@@ -1,0 +1,21 @@
+メモ
+openapiとswaggerの違いは？？
+最新
+openapi:3.0.0
+swagger:2.0.0??
+
+基本構成
+1.swagger
+Swaggeのバージョンらしい
+2.info
+└version apiのバージョン
+└title apiのタイトル
+└description
+ >-ではじめyamlの形式でかく
+3.servers
+
+4.path
+
+
+参考にしたサイト
+https://qiita.com/A-Kira/items/3d17396c7cc98873e29d
